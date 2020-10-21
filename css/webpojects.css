@@ -1,0 +1,20 @@
+@import url('hidecode.css');
+.groupbtn{
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 1%;
+}
+button {
+    margin-left: 1%;
+    border: none;
+    padding: 1%;
+    background-color: rgb(150, 150, 151);
+}
+button:hover{
+    background-color:  rgb(207, 44, 44);
+    color: white;
+}
+button a{
+    text-decoration: none;
+}
