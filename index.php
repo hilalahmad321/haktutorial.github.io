@@ -32,4 +32,4 @@
     </section>
 <?php include("footer.php");?>
 
-</html>
+
